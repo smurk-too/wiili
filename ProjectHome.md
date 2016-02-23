@@ -1,0 +1,1 @@
+WiiLi is an ongoing project to create a live Linux CD that will allow the Wii to boot into a fully fleged Linux Desktop without the need of a modchip, or any hardware modification.
